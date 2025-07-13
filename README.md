@@ -64,12 +64,13 @@ This project presents an in-depth analysis of personal spending using both **Pow
 ---
 
 ## 🧪 How to Run
-'''
+```bash
 git clone https://github.com/M-dorra/financial_data_analysis.git
 cd financial-data_analysis
 pip install -r requirements.txt
 jupyter notebook processing.ipynb
-'''
+
+```
 
 ---
 
