@@ -74,7 +74,7 @@ jupyter notebook processing.ipynb
 
 ---
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 - Add budget limit comparisons per category/month
 - Enable anomaly detection (e.g. overspending alerts)
@@ -83,7 +83,7 @@ jupyter notebook processing.ipynb
 
 ---
 
-✅ Summary
+## ✅ Summary
 This project bridges technical analysis (Python) and business intelligence (Power BI) to extract valuable insights from financial behavior.
 
 
